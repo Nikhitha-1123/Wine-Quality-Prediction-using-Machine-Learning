@@ -1,4 +1,4 @@
-# PROJECT6 : 🍷 Wine Quality Prediction using Machine Learning
+# PROJECT : 🍷 Wine Quality Prediction using Machine Learning
 
 > ✅ Level 2- Task 2
 
